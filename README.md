@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=AntrikshVerma991&style=plastic&color=blueviolet" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=iamantrikshverma&style=plastic&color=blueviolet" alt="Profile Views"/>
 </p>
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
@@ -14,9 +14,9 @@
 
 <br>
 <div>
-   <div align="center">
+<!--    <div align="center">
       <img height="200" src="https://github.com/iamantrikshverma/iamantrikshverma/blob/main/antiksh2.jpg" alt="photo of Antriksh Verma" style="border-radius: 50%; object-fit: cover; overflow: hidden;">
-  </div> 
+  </div>  -->
   <div align="center">
       <a href="https://git.io/typing-svg">
           <img src="https://readme-typing-svg.demolab.com/?font=VT323&size=30&duration=3500&pause=300&color=6A0572&center=true&vCenter=true&width=500&lines=Hey%2C+I+am+Antriksh;Welcome+to+My+GitHub+Profile;Passionate+about+technology+and+learning;BTech+in+CSE;Full-stack+Developer;Boxing+enthusiast;Hardworking+and+dedicated;Sports+lover;Coding+and+problem-solving+enthusiast" alt="Typing SVG" />
