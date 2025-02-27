@@ -15,11 +15,11 @@
 <br>
 <div>
    <div align="center">
-      <img height="200" src="https://github.com/iamantrikshverma/iamantrikshverma/blob/main/antiksh2.jpg" alt="photo of Antriksh Verma">
+      <img height="200" src="https://github.com/iamantrikshverma/iamantrikshverma/blob/main/antiksh2.jpg" alt="photo of Antriksh Verma" style="border-radius: 50%;">
   </div> 
   <div align="center">
       <a href="https://git.io/typing-svg">
-          <img src="https://readme-typing-svg.demolab.com/?font=VT323&size=36&duration=3500&pause=300&color=6A0572&center=true&vCenter=true&width=500&lines=Hey%2C+I+am+Antriksh;Welcome+to+My+GitHub+Profile;Passionate+about+technology+and+learning;BTech+in+CSE;Full-stack+Developer;Boxing+enthusiast;Hardworking+and+dedicated;Sports+lover;Coding+and+problem-solving+enthusiast" alt="Typing SVG" />
+          <img src="https://readme-typing-svg.demolab.com/?font=VT323&size=30&duration=3500&pause=300&color=6A0572&center=true&vCenter=true&width=500&lines=Hey%2C+I+am+Antriksh;Welcome+to+My+GitHub+Profile;Passionate+about+technology+and+learning;BTech+in+CSE;Full-stack+Developer;Boxing+enthusiast;Hardworking+and+dedicated;Sports+lover;Coding+and+problem-solving+enthusiast" alt="Typing SVG" />
       </a>
   </div>
 </div>
