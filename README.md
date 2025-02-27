@@ -14,9 +14,9 @@
 
 <br>
 <div>
-  <!-- <div align="center">
-      <img height="200" src="https://github.com/AntrikshVerma991/AntrikshVerma991/assets/168032631/6de7c7d4-9da9-4c5d-85be-f3a8c5b7ae02" alt="Avatar photo of Antriksh Verma">
-  </div> -->
+   <div align="center">
+      <img height="200" src="https://github.com/iamantrikshverma/iamantrikshverma/blob/main/antiksh2.jpg" alt="photo of Antriksh Verma">
+  </div> 
   <div align="center">
       <a href="https://git.io/typing-svg">
           <img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=6A0572&center=true&vCenter=true&width=500&lines=Hey%2C+I+am+Antriksh;Welcome+to+My+GitHub+Profile;Passionate+about+technology+and+learning;BTech+in+CSE;Full-stack+Developer;Boxing+enthusiast;Hardworking+and+dedicated;Sports+lover;Coding+and+problem-solving+enthusiast" alt="Typing SVG" />
@@ -166,7 +166,7 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/antriksh-verma-950666306/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
-  <a href="mailto:imanantrikshverma@gmail.com?subject=Hi%20Antriksh%20,%20nice%20to%20meet%20you!" target="_blank"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" /></a>
+  <a href="mailto:iamantrikshverma@gmail.com?subject=Hi%20Antriksh%20,%20nice%20to%20meet%20you!" target="_blank"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" /></a>
   <a href="https://www.hackerrank.com/profile/iamantrikshverma" target="_blank"><img width="100px" src="https://user-images.githubusercontent.com/1194257/65596422-1cef2080-df97-11e9-9abb-a225204d1805.png" alt="HackerRank" /></a>
 </div>
 
