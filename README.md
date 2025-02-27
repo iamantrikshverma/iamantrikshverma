@@ -15,7 +15,7 @@
 <br>
 <div>
    <div align="center">
-      <img height="200" src="https://github.com/iamantrikshverma/iamantrikshverma/blob/main/antiksh2.jpg" alt="photo of Antriksh Verma" style="border-radius: 50%;">
+      <img height="200" src="https://github.com/iamantrikshverma/iamantrikshverma/blob/main/antiksh2.jpg" alt="photo of Antriksh Verma" style="border-radius: 50%; object-fit: cover; overflow: hidden;">
   </div> 
   <div align="center">
       <a href="https://git.io/typing-svg">
