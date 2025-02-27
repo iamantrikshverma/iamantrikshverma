@@ -1,6 +1,3 @@
-Hyy Antriksh Verma! Based on the details you’ve provided, I’ve crafted a GitHub profile README that showcases your education, skills, projects, internships, and more in a structured and visually appealing way. Below is the complete markdown content you can use for your GitHub profile:
-
-
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=AntrikshVerma991&style=plastic&color=blueviolet" alt="Profile Views"/>
 </p>
